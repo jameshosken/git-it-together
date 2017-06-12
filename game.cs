@@ -17,3 +17,9 @@ public void Update(){
 public void Interaction(int data){
 	//create awesome stuff
 }
+
+public void NewFeature(){
+	//I can do extra stuffs!
+	
+	//Now with 20% extra!
+}

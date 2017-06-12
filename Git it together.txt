@@ -1,0 +1,11 @@
+Git it together!
+
+- Terminal is "Just Finder"
+
+Branching:
+	- Convention
+
+	- feature/name
+	- bug/name
+	- improvements/name
+
